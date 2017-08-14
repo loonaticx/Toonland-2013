@@ -1,0 +1,28 @@
+The following is everyone's position in the Toon Land project:
+
+    Designers -
+        Mark/Doctor Leroy - Lead Designer
+        Chris/Chris552299
+        Eric/BestBoyEric
+
+    Concept -
+        Mark/Doctor Leroy
+        Chris/Chris552299
+
+    Programmers -
+        Cody/Fd Green Cat Fd - Lead Programmer
+        Pascal/King Lefty/Lefty Lemonzilla
+        Peter/Lifeless
+
+    Security -
+        Cody/Fd Green Cat Fd
+
+    Alpha Testers -
+        Andrew/Aorti5
+        Reese/RTHardcoreGaming
+
+    Quality Assurance -
+        Bryan/Th3KillSw1tch
+
+    Marketing -
+        Joey/Joey19982
